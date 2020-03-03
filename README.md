@@ -7,3 +7,4 @@ This is application for customers who need to use motorcycle sharing system by S
 가용한 오토바이를 예약할 수 있게한다.  
 또 사용자는 스마트폰을 통해 지정한 오토바이에 부착된 솔레노이드 잠금장치를 제어할 수 있는 키 박스 스마트키 기능을 블루투스 연결을 통해 사용할 수 있다.  
 ![캡처1](C:\Users\Taemin\Desktop.png)
+![텍스트](https://postfiles.pstatic.net/MjAyMDAzMDNfMTY2/MDAxNTgzMjMxMjM5OTcw.UrakxpIvlxOSNXzIUWAEeKbGcTP1aqRpGqIClYacmEsg.DrrPn2cuztCrAWlSuy-nq4tO2m0ntlTlfu126dHgRq0g.PNG.tom78/%EC%BA%A1%EC%B2%981.PNG?type=w773)
