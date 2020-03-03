@@ -1,3 +1,3 @@
 # MotorCycle Sharing Service
-## 오야스
-### 오야미
+## Jinten
+This is application for customers who need to use motorcycle sharing system by Seungwoo Han, Taemin Kwon, Kyungho Choi
